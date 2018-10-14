@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "temp_artisteem",
+  "short_name": "temp_artisteem",
+  "version": "com.phonegap.helloworld",
+  "description": "A blank PhoneGap app.",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}
